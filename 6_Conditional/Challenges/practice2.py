@@ -1,3 +1,4 @@
+
 mark1 = int(input("Enter the marks for sub 1: "))
 mark2 = int(input("Enter the marks for sub 2: "))
 mark3 = int(input("Enter the marks for sub 3: "))
